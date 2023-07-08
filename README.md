@@ -30,5 +30,5 @@ Here's some stuff I've made over the years:
   <p>:iphone: Cross-platform mobile smart travel bucket list app<br>
   :computer: Developed using Flutter and AWS Lambda.</p>
 
-<br><br>
-[![Sharvai's github stats](https://github-readme-stats.vercel.app/api?username=SHARVAI101&count_private=true&show_icons=true&theme=slateorange&hide_rank=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><be>
+<!-- [![Sharvai's github stats](https://github-readme-stats.vercel.app/api?username=SHARVAI101&count_private=true&show_icons=true&theme=slateorange&hide_rank=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
