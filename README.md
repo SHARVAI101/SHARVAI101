@@ -30,5 +30,8 @@ Here's some stuff I've made over the years:
   <p>:iphone: Cross-platform mobile smart travel bucket list app<br>
   :computer: Developed using Flutter and AWS Lambda.</p>
 
+## [Automation in Meeting Summarization](https://github.com/Hack-Overflow/MeetingMinutes) <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat" /> 
+  <p>:iphone: A website using Django and JavaScript that achieves automation in meeting summarization using Watson API’s Text-to-Speech conversion followed by Natural Language Processing in Python using nltk.</p>
+
 <br><be>
 <!-- [![Sharvai's github stats](https://github-readme-stats.vercel.app/api?username=SHARVAI101&count_private=true&show_icons=true&theme=slateorange&hide_rank=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
