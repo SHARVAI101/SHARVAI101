@@ -7,8 +7,8 @@ Here's some stuff I've made over the years:
 
 ## [The Coding Dojo](https://github.com/SHARVAI101/Coding-Dojo-App) <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Firebase-0396DE?logo=Firebase&logoColor=FFCA28&style=plastic" />
   <p>:iphone: Cross-platform mobile app that helps users learn programming logic.<br>
-  :heavy_check_mark: 19,000+ <a target="_blank" href="https://play.google.com/store/apps/details?id=com.traveltest.coding_dojo_app">Google Playstore downloads</a>.<br>
-  :star: 4.7 star rating on Google Playstore.<br>
+  :heavy_check_mark: 229,000+ <a target="_blank" href="https://play.google.com/store/apps/details?id=com.traveltest.coding_dojo_app">Google Playstore downloads</a>.<br>
+  :star: 4.8 star rating on Google Playstore from over 300 reviews.<br>
   :computer: Developed using Flutter and Firebase.</p>
   
 ## [Kingdom Wars](https://github.com/SHARVAI101/Kingdom-Wars) <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"/>
