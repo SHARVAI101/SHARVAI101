@@ -1,4 +1,4 @@
-### :crossed_swords: Hey there, I'm Sharvai :crossed_swords:
+### Hey there, I'm Sharvai 
 - I love making software applications
 - Currently a Master of Science in Computer Science student
 - Studying in Rochester Institute of Technology (CGPA: 3.90)
