@@ -5,6 +5,9 @@
 
 Here's some stuff I've made over the years:
 
+## [ExplainIt]([https://github.com/SHARVAI101/](https://github.com/SHARVAI101/pdf-teacher) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Firebase-0396DE?logo=Firebase&logoColor=FFCA28&style=plastic" />
+  <p>:computer: AI personal tutor.</p>
+
 ## [The Coding Dojo](https://github.com/SHARVAI101/Coding-Dojo-App) <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Firebase-0396DE?logo=Firebase&logoColor=FFCA28&style=plastic" />
   <p>:iphone: Cross-platform mobile app that helps users learn programming logic.<br>
   :heavy_check_mark: 22,000+ <a target="_blank" href="https://play.google.com/store/apps/details?id=com.traveltest.coding_dojo_app">Google Playstore downloads</a>.<br>
